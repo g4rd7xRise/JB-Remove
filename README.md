@@ -5,9 +5,9 @@
     </a>
 </p>
 
-<h1 align="center">🇷🇺 Скрипт Полного Удаления JetBrains</h1>
+<h1 align="center">🇷🇺 Скрипт Полного Удаления настроек JetBrains  Снятие блокировки! </h1>
 
-<p align="center">Этот скрипт предназначен для полного удаления программного обеспечения JetBrains с вашего компьютера, включая все связанные плагины, проекты и файлы.</p>
+<p align="center">Этот скрипт предназначен для снятия блокировки с JetBrains, удаляються все плагины, проекты и файлы.</p>
 
 <h2>Отказ от ответственности</h2>
 <p><strong>Использование этого скрипта на ваш страх и риск.</strong> Автор не несёт ответственности за любые последствия, которые могут возникнуть в результате выполнения этого скрипта, включая, но не ограничиваясь:</p>
@@ -60,9 +60,9 @@
     </a>
 </p>
 
-<h1 align="center">🇺🇸 JetBrains Complete Removal Script</h1>
+<h1 align="center">🇺🇸 Script for Complete Removal of JetBrains Settings Unblocking! </h1>
 
-<p align="center">This script is designed for the complete removal of JetBrains software from your computer, including all associated plugins, projects, and files.</p>
+<p align="center">This script is designed to remove blocking from JetBrains; all plugins, projects and files are deleted.</p>
 
 <h2>Disclaimer</h2>
 <p><strong>Use of this script is at your own risk.</strong> The author is not responsible for any consequences that may arise from running this script, including but not limited to:</p>
