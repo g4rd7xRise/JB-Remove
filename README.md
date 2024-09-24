@@ -29,6 +29,7 @@
 <p>Этот скрипт поможет в <strong>сбросе блокировки активации JetBrains</strong>.</p>
 
 <h2>Инструкции</h2>
+<p>Если ваша задача просто установить JetBrains начните с поункта 4</p>
 <ol>
     <li><strong>Скачайте</strong> инструмент Jfremover.</li>
     <li><strong>Запустите от имени администратора.</strong></li>
@@ -83,6 +84,7 @@
 <p>This script will help in <strong>resetting the JetBrains activation lock</strong>.</p>
 
 <h2>Instructions</h2>
+<p>If your task is just to install JetBrains, start with step 4</p>
 <ol>
     <li><strong>Download</strong> the Jfremover tool.</li>
     <li><strong>Run as Administrator.</strong></li>
