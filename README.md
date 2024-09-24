@@ -1,3 +1,10 @@
+<h2 align="center">⭐️ Если вам нравится этот проект, пожалуйста, поставьте звезду! ⭐️</h2>
+<p align="center">
+    <a href="https://github.com/g4rd7xRise/JB-Remove/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/g4rd7xRise/JB-Remove?style=social" alt="Поставьте звезду этому проекту" />
+    </a>
+</p>
+
 <h1 align="center">🇷🇺 Скрипт Полного Удаления JetBrains</h1>
 
 <p align="center">Этот скрипт предназначен для полного удаления программного обеспечения JetBrains с вашего компьютера, включая все связанные плагины, проекты и файлы.</p>
@@ -44,6 +51,13 @@
 <hr>
 <hr>
 
+
+<h2 align="center">⭐️ If you like this project, please give it a star! ⭐️</h2>
+<p align="center">
+    <a href="https://github.com/yourusername/yourrepository/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/yourusername/yourrepository?style=social" alt="Star this project" />
+    </a>
+</p>
 
 <h1 align="center">🇺🇸 JetBrains Complete Removal Script</h1>
 
