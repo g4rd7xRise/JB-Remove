@@ -1,2 +1,88 @@
-# JB-Remove
-Complete removal of JetBrains from your computer
+<h1 align="center">🇷🇺 Скрипт Полного Удаления JetBrains</h1>
+
+<p align="center">Этот скрипт предназначен для полного удаления программного обеспечения JetBrains с вашего компьютера, включая все связанные плагины, проекты и файлы.</p>
+
+<h2>Отказ от ответственности</h2>
+<p><strong>Использование этого скрипта на ваш страх и риск.</strong> Автор не несёт ответственности за любые последствия, которые могут возникнуть в результате выполнения этого скрипта, включая, но не ограничиваясь:</p>
+<ul>
+    <li>Потеря данных</li>
+    <li>Неполадки в программном обеспечении</li>
+    <li>Повреждение операционной системы</li>
+</ul>
+
+<p><strong>Перед запуском скрипта:</strong></p>
+<ul>
+    <li>Создайте резервную копию важных данных.</li>
+    <li>Убедитесь, что вы понимаете изменения, которые будут внесены в вашу систему.</li>
+</ul>
+
+<p>Скрипт предназначен исключительно для удаления определённых файлов и записей реестра и должен использоваться только в том случае, если вы абсолютно уверены в необходимости этих действий.</p>
+
+<h2>Цель</h2>
+<p>Этот скрипт также может помочь в <strong>сбросе блокировки активации JetBrains</strong>.</p>
+
+<h2>Инструкции</h2>
+<ol>
+    <li><strong>Скачайте</strong> инструмент Jfremover.</li>
+    <li><strong>Запустите от имени администратора.</strong></li>
+    <li><strong>Получите</strong> 30 дней пробного периода.</li>
+    <li>Перейдите по <a href="https://306.antroot.ru/jetbrains-activation">этой ссылке</a>, чтобы получить бесплатную лицензию JetBrains.</li>
+</ol>
+
+<h2>Важные замечания</h2>
+<ul>
+    <li>Этот скрипт удалит все файлы и настройки, связанные с JetBrains, с вашего компьютера.</li>
+    <li>Убедитесь, что вы закрыли все приложения JetBrains перед выполнением скрипта.</li>
+</ul>
+
+
+<hr>
+
+<p align="center"><strong>Отказ от ответственности:</strong> Этот README предназначен только для информационных целей. Используйте на свой страх и риск.</p>
+
+
+<hr>
+<hr>
+
+
+<h1 align="center">🇺🇸 JetBrains Complete Removal Script</h1>
+
+<p align="center">This script is designed for the complete removal of JetBrains software from your computer, including all associated plugins, projects, and files.</p>
+
+<h2>Disclaimer</h2>
+<p><strong>Use of this script is at your own risk.</strong> The author is not responsible for any consequences that may arise from running this script, including but not limited to:</p>
+<ul>
+    <li>Data loss</li>
+    <li>Software malfunction</li>
+    <li>Damage to the operating system</li>
+</ul>
+
+<p><strong>Before running the script:</strong></p>
+<ul>
+    <li>Create a backup copy of important data.</li>
+    <li>Ensure you understand the changes that will be made to your system.</li>
+</ul>
+
+<p>The script is intended solely for the removal of specific files and registry entries and should only be used if you are absolutely sure of the need for these actions.</p>
+
+<h2>Purpose</h2>
+<p>This script can also help in <strong>resetting the JetBrains activation lock</strong>.</p>
+
+<h2>Instructions</h2>
+<ol>
+    <li><strong>Download</strong> the Jfremover tool.</li>
+    <li><strong>Run as Administrator.</strong></li>
+    <li><strong>Get a</strong> 30-day trial period.</li>
+    <li>Visit <a href="https://306.antroot.ru/jetbrains-activation">this link</a> to obtain a free JetBrains license.</li>
+</ol>
+
+<h2>Important Notes</h2>
+<ul>
+    <li>This script will remove all JetBrains-related files and settings from your computer.</li>
+    <li>Please ensure that you have closed all JetBrains applications before executing the script.</li>
+</ul>
+
+
+<hr>
+
+<p align="center"><strong>Disclaimer:</strong> This README is for informational purposes only. Use at your own discretion.</p>
