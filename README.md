@@ -26,7 +26,7 @@
 <p>Скрипт предназначен исключительно для удаления определённых файлов и записей реестра и должен использоваться только в том случае, если вы абсолютно уверены в необходимости этих действий.</p>
 
 <h2>Цель</h2>
-<p>Этот скрипт также может помочь в <strong>сбросе блокировки активации JetBrains</strong>.</p>
+<p>Этот скрипт поможет в <strong>сбросе блокировки активации JetBrains</strong>.</p>
 
 <h2>Инструкции</h2>
 <ol>
@@ -80,7 +80,7 @@
 <p>The script is intended solely for the removal of specific files and registry entries and should only be used if you are absolutely sure of the need for these actions.</p>
 
 <h2>Purpose</h2>
-<p>This script can also help in <strong>resetting the JetBrains activation lock</strong>.</p>
+<p>This script will help in <strong>resetting the JetBrains activation lock</strong>.</p>
 
 <h2>Instructions</h2>
 <ol>
