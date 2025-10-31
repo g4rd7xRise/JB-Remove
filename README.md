@@ -1,4 +1,4 @@
-<h2 align="center">⭐️ Если вам нравится этот проект, пожалуйста, поставьте звезду! ⭐️</h2>
+<h2 align="center">⭐️ Если вам нравится этот проект, пожалуйста, поставьте звезду.! ⭐️</h2>
 <p align="center">
     <a href="https://github.com/g4rd7xRise/JB-Remove/stargazers" target="_blank">
         <img src="https://img.shields.io/github/stars/g4rd7xRise/JB-Remove?style=social" alt="Поставьте звезду этому проекту" />
